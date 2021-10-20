@@ -1,0 +1,6 @@
+While the importance of Linux commands is well known but what many programmers don’t know about how to write shell scripts to make most of it. Some of them even not familiar with various Linux shells like bash, csh, or ksh, which further limits their ability.
+If you don’t know, bash is a UNIX shell and command language, which is also a default login shell for many Linux systems and Mac OS.
+It provides the ability to write scripts to do things programmatically and automate repeated and boring tasks like copying files between server, checking a particular file in all servers, etc.
+Shell scripting is an important skill to become a better developer or programmer. It allows you to automate trivial tasks that otherwise take away your valuable time. It also allows you to do things quickly.
+
+For example, if you have to copy a file into 10 Linux hosts and if you do it manually using ssh or SCP it might take 10 minutes. Still, if you know shell scripting, then you can quickly create a script in 5 minutes and copy the files in another 1 minutes, you not just save 4 minutes right there but for all future work, you have a script that can do this job in only one minute.
